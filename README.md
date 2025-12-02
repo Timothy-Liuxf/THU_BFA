@@ -16,7 +16,7 @@
 mdbook build
 ```
 
-> 目前使用的是 mdbook@0.5.1 与 mdbook-katex@0.10.0-alpha 版本。
+> 目前使用的是 `mdbook@0.5.1` 与 `mdbook-katex@0.10.0-alpha` 版本。
 
 ## 贡献
 
